@@ -1,0 +1,1 @@
+﻿positionForPages[196]={page:196,positions:[{word:"194",left:-0.942847,top:0.937535,width:0.049634,height:0.023336},{word:"P",left:0.361188,top:0.211660,width:0.051931,height:0.065297},{word:"eNSioNi",left:0.411952,top:0.225013,width:0.235150,height:0.048972},{word:"Guida 2018F:v  07/12/17  12.14  Pagina 194",left:-1.000922,top:-0.04663,width:0.500731,height:0.018241}]};

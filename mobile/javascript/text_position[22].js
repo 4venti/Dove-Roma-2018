@@ -1,0 +1,1 @@
+﻿positionForPages[22]={page:22,positions:[{word:"20",left:-0.942847,top:0.937535,width:0.033089,height:0.023336},{word:"... ",left:0.235636,top:0.211629,width:0.083075,height:0.065297},{word:"Per La STrada",left:0.315707,top:0.224982,width:0.458154,height:0.048972},{word:"Guida 2018F:v  07/12/17  12.13  Pagina 20",left:-1.000922,top:-0.04663,width:0.486584,height:0.018241}]};
