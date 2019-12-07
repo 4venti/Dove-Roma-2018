@@ -2,15 +2,15 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "org.santegidio.dove-roma-dove"
-    versionCode = "12"
-    version     = "2.0.0" >
+    versionCode = "20"
+    version     = "20.0.0" >
 
 <!-- versionCode is optional and Android only -->
 
   <name>Dove Roma</name>
 
   <description>
-      DOVE mangiare, dormire, lavarsi. A cura della Comunita' di Sant'Egidio. Edizione Roma 2018
+      DOVE mangiare, dormire, lavarsi. A cura della Comunita' di Sant'Egidio. Edizione Roma 2020
   </description>
 
   <author href="http://www.santegidio.org" email="romadove@tiscali.it">
