@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "org.santegidio.dove-roma-dove"
-
+    id          = "b4a.doveroma2017"
+<!-- org.santegidio.dove-roma-dove -->
     versionCode = "20"
     version     = "20.0.0" >
 
