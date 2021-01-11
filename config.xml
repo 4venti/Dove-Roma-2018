@@ -3,8 +3,8 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "b4a.doveroma2017"
 
-    versionCode = "22"
-    version     = "22.0.0" >
+    versionCode = "23"
+    version     = "23.0.0" >
 
 <!-- versionCode is optional and Android only -->
 
@@ -22,4 +22,9 @@
   
   <preference name="android-minSdkVersion" value="16" />
   <preference name="android-targetSdkVersion" value="29" />
+  
+  <plugin name="cordova-plugin-whitelist" version="1"/>
+  <allow-navigation href="https://play.google.com/*" />
+  <allow-navigation href="https://play.google.com/store/apps/details?id=com.segidio.solidarieta" />
+
   </widget>
